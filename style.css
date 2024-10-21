@@ -1,0 +1,158 @@
+.top-container{
+    background-color:#ececec;
+    display:block;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#cloud1{
+    padding-bottom: 30px;
+}
+#cloud2{
+    display: block;
+    padding-left: 100px;
+  
+}
+
+.title h1{
+font-family: "Sacramento", cursive;
+font-size: 5.625rem;
+color: #3B1E54;
+}
+
+.title h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    }
+
+.dp{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    
+    
+}
+
+#profile-photo{
+    
+    background-color: #385170;
+    border-radius: 50%;
+}
+.middle-container{
+    background-color: #9fd3c7;
+    text-align: center;
+    margin: 100px opx;
+    padding-bottom: 150px;
+}
+
+.profile> h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 20px;
+    color: #3B1E54;
+}
+
+#intro{
+    width:30%;
+    margin: auto;
+    font-size: 1.5rem;
+    font-family: "Merriweather", serif;
+}
+
+.break{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skills{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+.parent{
+    
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+    gap: 3rem;
+}
+
+.designing>p{
+    font-size: larger;
+}
+
+.unitext>p{
+    font-size: larger;
+}
+
+
+.skills>h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 80%;
+    color: #3B1E54;
+}
+.contact-me{
+    display: block;
+    padding-top: 3.2%;
+}
+.contact-info{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+    
+}
+.contact-me>h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 80%;
+    font-size: 250%;
+    color: #3B1E54;
+}
+
+.contact-info>div{
+    padding-top: 30px;;
+    padding-bottom: 70px;
+}
+
+.contact-info>a{
+    background-color: #385170;
+    border-radius: 8px;
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.contact-message{
+    font-size: larger;
+}
+
+.bottom-container{
+     background-color: #142d4c;
+     padding: 50px 0 20px;
+     text-align: center;
+     color: whitesmoke;
+     padding-top: 4%;
+     padding-bottom: 3%;
+    
+}
+.bottom-container>a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 150%;
+    padding: 0px 20px 0px 20px;
+}
+.bottom-container>p{
+    font-size: 140%;
+    padding-top: 2%;
+}
+span{
+    text-decoration: underline;
+}
